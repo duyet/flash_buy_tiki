@@ -9,6 +9,8 @@ verify_ssl = true
 selenium = "*"
 simplejson = "*"
 ruamel-yaml = "*"
+loguru = "*"
+pyyaml = "*"
 
 [requires]
 python_version = "3.7"
